@@ -73,4 +73,3 @@ class _SplashScreenUiState extends State<SplashScreenUi> {
     );
   }
 }
- 
