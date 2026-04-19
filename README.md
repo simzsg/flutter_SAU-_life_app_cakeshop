@@ -1,6 +1,5 @@
 # Mobile Application by Flutter/Dart
  
-## โปรเจ็ก สายด่วนกินเค้ก
 
 <kbd><img width="250" alt="localhost_12629_(Samsung Galaxy S20 Ultra)" src="https://github.com/user-attachments/assets/1fa08643-98d8-4a41-9792-468ce5096458" /><kbd>
 
